@@ -1,4 +1,5 @@
 ## Skilaverkefni 2
+### Sighvatur
 
 | Þjónustuaðili  | Verð  | Gagnamagn | Tengihraða | Ljósleiðari | ADSL |  SDSL  | Ljósnet |
 |:--------------:|:-----:|:---------:|:----------:|:-----------:|:----:|:----:|:----:|
