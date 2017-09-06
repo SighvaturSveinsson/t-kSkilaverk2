@@ -2,6 +2,6 @@
 
 | Þjónustuaðili  | Verð  | Gagnamagn | Tengihraða | Ljósleiðari | ADSL |  SDSL  | Ljósnet |
 |:--------------:|:-----:|:---------:|:----------:|:-----------:|:----:|:----:|:----:|
-| col 1 is |  left-aligned | $1600 |
+|Nova |  200 | 1000 Mb/s | Já |Nei |Nei|Nei|
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
